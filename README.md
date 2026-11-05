@@ -1,4 +1,4 @@
-# Machine Learning Classification Project
+# Machine Learning Classification Project.
 
 Implementasi klasifikasi dataset **Adult Census Income** menggunakan beberapa metode Machine Learning, lengkap dengan pipeline preprocessing, transformasi, resampling, seleksi fitur, dan UI interaktif berbasis Streamlit.
 
